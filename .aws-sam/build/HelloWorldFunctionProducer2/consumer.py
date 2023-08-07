@@ -19,7 +19,3 @@ def process_csv_row(row):
     
     # Do whatever processing you need with the CSV values
     print("CSV values:", csv_values)
-
-
-# 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   
-#some changes
